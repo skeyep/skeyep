@@ -1,10 +1,11 @@
-# 语言 Language 言語
+### 语言 Language 言語
 
 [简体中文](#ZH)
 [English](#EN)
 [日本語](#JP)
 
-<span id="ZH"># Skeyep的自述录 🚀</span>
+# Skeyep的自述录 🚀
+<span id="ZH"></span>
 
 诸君安好，余乃Skeyep也。倘若诸君曾于GitHub之上，窥见余所点赞之项目，定能洞悉，余对编程、开源之事，及技术革新，怀抱炽热之情。且听余细述，以显我心中技术之山河！
 
