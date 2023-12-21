@@ -4,8 +4,8 @@
 [English](#EN)
 [日本語](#JP)
 
-# Skeyep的自述录 🚀
 <span id="ZH"></span>
+# Skeyep的自述录 🚀
 
 诸君安好，余乃Skeyep也。倘若诸君曾于GitHub之上，窥见余所点赞之项目，定能洞悉，余对编程、开源之事，及技术革新，怀抱炽热之情。且听余细述，以显我心中技术之山河！
 
@@ -42,7 +42,8 @@
 ---
 > “在星际代码之海，每一函数皆可能开启通往新世界之门。” - Skeyep
 
-<span id="EN"># Skeyep's Chronicle 🚀</span>
+<span id="EN"></span>
+# Skeyep's Chronicle 🚀
 
 Hail and well met, travelers! I am known as Skeyep, a scribe of code and a seeker of the arcane arts of open source and technological innovation. If thou hast perused the stars I've marked with favor on GitHub, thou mayest have divined my fervor for programming, the communal spirit of open source, and the frontiers of innovation. Pray, journey with me through the map of my technological pursuits!
 
@@ -79,7 +80,8 @@ I thank thee for thy time spent in my universe! If thou sharest an interest in t
 ---
 > "In the vast ocean of starry code, each function may well be a portal to new worlds unknown." - Skeyep
 
-<span id="JP"># Skeyepの物語 🚀</span>
+<span id="JP"></span>
+# Skeyepの物語 🚀
 
 皆さん、こんにちは！私はSkeyepと申します。もしGitHubで私がスターをつけたプロジェクトを追跡していたら、あなたはもうお気づきかもしれませんね。私はプログラミング、オープンソース、そして技術革新に情熱を燃やしています。さあ、私の技術的興味の地図を一緒に探検しましょう！
 
