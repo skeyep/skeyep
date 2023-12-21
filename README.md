@@ -1,3 +1,8 @@
+# README.md
+- en [English](README_EN.md)
+- zh_CN [简体中文](README.md)
+- ja_JP [日本語](README_JP.md)
+
 # Skeyep的自述录 🚀
 
 诸君安好，余乃Skeyep也。倘若诸君曾于GitHub之上，窥见余所点赞之项目，定能洞悉，余对编程、开源之事，及技术革新，怀抱炽热之情。且听余细述，以显我心中技术之山河！
