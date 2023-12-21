@@ -1,4 +1,4 @@
-### 语言 Language 言語
+### Language
 
 [简体中文](#ZH)
 [English](#EN)
