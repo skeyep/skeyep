@@ -58,7 +58,7 @@ Within the cosmos of my collection, there be bright stars that signify my deep i
 - **Polyglot Tools**: As an explorer of the multiverse, I hold a special interest in projects that support the myriad tongues of man and machine.
 - **Efficiency Tools**: I am ever in search of alchemical secrets to enhance the efficiency of my toil, such as scripts of automation and tools of swift action.
 
-## Mine Own Creations 🛠️
+## My Own Worlds 🛠️
 
 When not charting new constellations on GitHub, I labor to forge my own worlds:
 
@@ -96,7 +96,7 @@ I thank thee for thy time spent in my universe! If thou sharest an interest in t
 - **多言語ツール**：多元宇宙の探検家として、私は多言語をサポートするプロジェクトに特に興味を持っています。
 - **効率ツール**：私は常に作業効率を高めるための秘密の技術、例えば自動化スクリプトやショートカット操作ツールを探しています。
 
-## 個人プロジェクト🛠️
+## 私の星 🛠️
 
 GitHub上の新しい星系を探検していないとき、私は自分だけの星を作ることに忙しいです：
 
