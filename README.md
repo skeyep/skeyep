@@ -20,7 +20,7 @@
 - **多语言工具**：作为多元宇宙之旅人，余对支持众语之项目，格外钟情。
 - **效率工具**：余常寻觅提升工作效率之秘法，如自动化脚本与快捷操作工具。
 
-## 个人创举亮点 🛠️
+## 己之星球 🛠️
 
 当余不在GitHub之新星系探险时，便忙于打造属于己之星球：
 
@@ -58,7 +58,7 @@ Within the cosmos of my collection, there be bright stars that signify my deep i
 - **Polyglot Tools**: As an explorer of the multiverse, I hold a special interest in projects that support the myriad tongues of man and machine.
 - **Efficiency Tools**: I am ever in search of alchemical secrets to enhance the efficiency of my toil, such as scripts of automation and tools of swift action.
 
-## Highlights of Mine Own Creations 🛠️
+## Mine Own Creations 🛠️
 
 When not charting new constellations on GitHub, I labor to forge my own worlds:
 
@@ -96,7 +96,7 @@ I thank thee for thy time spent in my universe! If thou sharest an interest in t
 - **多言語ツール**：多元宇宙の探検家として、私は多言語をサポートするプロジェクトに特に興味を持っています。
 - **効率ツール**：私は常に作業効率を高めるための秘密の技術、例えば自動化スクリプトやショートカット操作ツールを探しています。
 
-## 個人プロジェクトのハイライト 🛠️
+## 個人プロジェクト🛠️
 
 GitHub上の新しい星系を探検していないとき、私は自分だけの星を作ることに忙しいです：
 
